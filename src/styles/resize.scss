@@ -1,0 +1,8 @@
+.column.drop {
+    overflow: hidden;
+    height: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0;
+    z-index: -1;
+}
